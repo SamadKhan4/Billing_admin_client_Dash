@@ -1,0 +1,12 @@
+
+@media (max-width: 640px) {
+  body > div {
+    padding-top: 64px;
+  }
+}
+
+@media print {
+  .agent-info-print-hidden {
+    display: none !important;
+  }
+}
